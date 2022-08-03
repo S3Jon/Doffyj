@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Doffyj
 - 👀 I’m interested in cybersec, JS/TS and Python
 - 🌱 I’m currently learning C and Python
-- 📫 How to reach me @DoffyJS (Twitter)
+- 📫 How to reach me Twitter: @DoffyJS
+                      Mail:    doffyj@protonmail.com
 
 
 <!---
